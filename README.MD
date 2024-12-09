@@ -1,5 +1,4 @@
-# Project Title: Sentiment Amazon Product Review Analysis with Azure OpenAI and PandasAI
-
+# Project Title: Sentiment Analysis of Amazon Product Review with Azure OpenAI and Data Sciense
 ## Overview
 
 This project aims to analyze Amazon product reviews using Azure OpenAI and PandasAI. 
