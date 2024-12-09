@@ -20,7 +20,7 @@ This project aims to analyze Amazon product reviews using Azure OpenAI and Panda
 - **Exploring the data**: Evaluate how much you as a human can understand the data using Data Science Exploration methodology.
 - **Chatting with the Data**: Take your curiosity to the next level, and don't feel intimidated to chat with your data.
   
-![alt text](images/project_overview.jpg)
+![alt text](images/template_overview.jpg)
 
 
 ### Sentiment Analysis
