@@ -1,4 +1,10 @@
 # Project Title: Sentiment Analysis of Amazon Product Review with Azure OpenAI and Data Sciense
+
+## Lessons learned from this project as Important Aspects:
+- **Understanding the Data**: A thorough understanding of the structured data is essential to create relevant prompts.
+- **Model Capabilities**: Knowledge of the LLM's strengths and limitations helps in designing effective prompts.
+- **Feedback Loop**: Establishing a feedback loop to refine prompts based on the model's performance and outputs.
+
 ## Overview
 
 This project aims to analyze Amazon product reviews using Azure OpenAI and PandasAI. 
